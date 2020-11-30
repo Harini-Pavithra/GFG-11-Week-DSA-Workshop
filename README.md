@@ -5,7 +5,7 @@ This Repository consists of solutions to all the **Coding Problems and Quiz ques
 # Course Overview
 
 This course is an 11-week workshop that will take us through all the common Data Structures like Arrays, Trees, Graphs, LinkedList, and 
-many such concepts in a highly interactive manner.We will also be able to understand all the concepts of DSA in-depth.
+many such concepts in a highly interactive manner.We will also be able to understand all the concepts of DSA in-depth which enhance our problem-solving ability with industry-level coding problems.
 
 # Course Content
 
