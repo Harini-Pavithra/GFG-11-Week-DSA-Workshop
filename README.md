@@ -10,7 +10,8 @@ many such concepts in a highly interactive manner.We will also be able to unders
 # Course Content
 
 - [x] [Week 1](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201)
- - [Basic Maths](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201/Problem/Mathematics)
+  - [Basic Maths](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201/Problem/Mathematics)
+  - Array Introduction and Operations
 - [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
