@@ -1,6 +1,6 @@
 # GFG-11-Week-DSA-Workshop
 
-This Repository consists of solutions to all the **Coding Problems and Quizes** as a part of Geeksforgeeks 11 Week DSA workshop.
+This Repository consists of solutions to all the **Coding Problems and Quiz questions** as a part of Geeksforgeeks 11 Week DSA workshop.
 
 # Course Overview
 
