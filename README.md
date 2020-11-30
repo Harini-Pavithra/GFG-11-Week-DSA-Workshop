@@ -25,7 +25,5 @@ many such concepts in a highly interactive manner.We will also be able to unders
 - [ ] Week 11
 
 # Links
-### Website Link
-[Geeksforgeeks](https://www.geeksforgeeks.org/)
-### Course Link
-[11 Week DSA Workshop](https://practice.geeksforgeeks.org/courses/Workshop-DSA?vC=1)
+1. [Geeksforgeeks](https://www.geeksforgeeks.org/)
+2. [11 Week DSA Workshop](https://practice.geeksforgeeks.org/courses/Workshop-DSA?vC=1)
