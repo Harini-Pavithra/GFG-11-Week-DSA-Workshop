@@ -11,7 +11,7 @@ many such concepts in a highly interactive manner.We will also be able to unders
 
 - [x] [Week 1](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201)
   - [Basic Maths](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201/Problem/Mathematics)
-  - Array Introduction and Operations
+  - [Array Introduction and Operations](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201/Problem/Arrays)
   - [Week 1 Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201/Quiz)
 - [ ] Week 2
 - [ ] Week 3
