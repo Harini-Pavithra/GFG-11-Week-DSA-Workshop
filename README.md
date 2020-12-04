@@ -15,6 +15,7 @@ many such concepts in a highly interactive manner.We will also be able to unders
   - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201/Quiz)
   - [Contest](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%201/Contest)
 - [ ] Week 2
+  - [Searching and Sorting](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%202/Searching%20and%20Sorting)
 - [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
