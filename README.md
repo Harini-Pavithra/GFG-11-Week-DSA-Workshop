@@ -17,11 +17,11 @@ many such concepts in a highly interactive manner.We will also be able to unders
 - [x] [Week 2](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%202)
   - [Searching and Sorting](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%202/Searching%20and%20Sorting)
   - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%202/Quiz)
-- [x] [Week 3]
+- [x] [Week 3](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%203)
    - [Bit Magic](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%203/Bit%20Magic)
    - [Matrix](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%203/Matrix)
-   -[Strings](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%203/Strings)
-   -[Quiz]()
+   - [Strings](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%203/Strings)
+   - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%203/Strings/Quiz)
 - [ ] Week 4
 - [ ] Week 5
 - [ ] Week 6
