@@ -30,7 +30,9 @@ many such concepts in a highly interactive manner.We will also be able to unders
 - [x] [Week 5](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%205)
    - [Stack](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%205/Stack)
    - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%205/Quiz)
-- [ ] Week 6
+- [x] [Week 6](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%206)
+   -  [Contest](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%206/Contest)
+   -  [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%206/Quiz)
 - [ ] Week 7
 - [ ] Week 8
 - [ ] Week 9
