@@ -71,6 +71,7 @@ Constraints:
 	}
 '''
 
+
 def getSize(head):
     ret = 0
     while head is not None:
@@ -104,7 +105,6 @@ def intersetPoint(head1,head2):
     if head1 is not None:
         return head1.data
     return -1
-
 
 
 #{ 
