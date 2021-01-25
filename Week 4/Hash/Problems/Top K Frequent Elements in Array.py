@@ -37,9 +37,8 @@ Solution
 # arr[] : input list of size n
 # k     : as specified in the problem description
 # Return a list that consists of the Top K most frequent elements in arr
-def TopK (arr, n, k):
-    # Your Code Here
-   um = {} 
+def TopK(arr, n, k): 
+    um = {} 
     for i in range(n): 
         if arr[i] in um: 
             um[arr[i]] += 1
@@ -47,13 +46,13 @@ def TopK (arr, n, k):
             um[arr[i]] = 1
     a = [0] * (len(um)) 
     j = 0
-    
     for i in um: 
         a[j] = [i, um[i]] 
         j += 1
-    
-    a = sorted(a, key = lambda x : x[0], reverse = True) 
-    a = sorted(a, key = lambda x : x[1],  reverse = True) 
+    a = sorted(a, key = lambda x : x[0], 
+                         reverse = True) 
+    a = sorted(a, key = lambda x : x[1],  
+                         reverse = True) 
                      
                      
     res = []      
