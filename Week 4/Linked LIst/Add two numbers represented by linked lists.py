@@ -48,9 +48,8 @@ class Node:
 
 '''
 
-def addTwoLists(first, second):
-    # code here
-    # return head of sum list
+def reverse(head):
+    # this function reverses the linked list
     prev = None
     current = head
     next = None
