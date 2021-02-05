@@ -4,7 +4,7 @@ Note: One can move from node u to node v only if there's an edge from u to v and
 Example 1:
 
 Input:
-![BFS](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/blob/main/Week%209/Graph/Problems/BFS.png)
+BFS Image Link:  https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/blob/main/Week%209/Graph/Problems/BFS.png
 Output: 0 1 2 3 4
 Explanation: 
 0 is connected to 1 , 2 , 3.
@@ -16,7 +16,7 @@ then 3.After this 2 to 4, thus bfs will be
 Example 2:
 
 Input:
-![BFS-Example 2](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/blob/main/Week%209/Graph/Problems/BFS-Example%202.png)
+BFS-Example 2 Image Link : https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/blob/main/Week%209/Graph/Problems/BFS-Example%202.png
 Output: 0 1 2
 Explanation:
 0 is connected to 1 , 2.
