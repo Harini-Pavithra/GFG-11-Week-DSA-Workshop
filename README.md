@@ -43,6 +43,9 @@ many such concepts in a highly interactive manner.We will also be able to unders
    -  [Graph](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Graph)
        - [Problems](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Graph/Problems)
        - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Graph/Quiz)
+   -  [Heap](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Heap)
+        - [Problems]()
+        - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Heap/Quiz)
 - [ ] Week 10
 - [ ] Week 11
 
