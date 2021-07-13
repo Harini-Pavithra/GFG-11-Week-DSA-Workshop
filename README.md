@@ -46,7 +46,8 @@ many such concepts in a highly interactive manner.We will also be able to unders
    -  [Heap](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Heap)
         - [Problems](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Heap/Problems)
         - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week%209/Heap/Quiz)
-- [ ] Week 10
+- [ ] [Week 10](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week_10/)
+   - [Greedy](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week_10/Greedy)
 - [ ] Week 11
 
 # Links
