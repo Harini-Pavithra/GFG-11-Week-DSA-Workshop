@@ -49,7 +49,8 @@ many such concepts in a highly interactive manner.We will also be able to unders
 - [x] [Week 10](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week_10/)
    - [Greedy](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week_10/Greedy)
    - [Quiz](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week_10/Quiz)
-- [ ] Week 11
+- [ ] [Week 11](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week_11)
+   - [Dynamic Programming](https://github.com/Harini-Pavithra/GFG-11-Week-DSA-Workshop/tree/main/Week_11/Dynamic%20Programming)
 
 # Links
 
